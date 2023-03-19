@@ -1,0 +1,2 @@
+carla emulator needs to be opened in advance before training. After successful simulation, the model file will be saved and the training process can be repeated in the demonstration script
+

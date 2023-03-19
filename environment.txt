@@ -1,0 +1,1 @@
+The environment and system configuration for the experiments are as follows: the operating system is windows 10, CPU is Intel(R) Xeon(R) Gold 5218R CPU @ 2.10GHz 2.10 GHz, graphics card configuration is 24 GB memory NVIDIA GeForce RTX 3090. Python version is 3.7, tensorflow version is 1.13.1, Keras version is 2.2.4, and carla simulator version is 0.9.13.
